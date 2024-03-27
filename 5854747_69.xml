@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://chimoney.readme.io/</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/introduction</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/getting-started-with-your-api</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/authentication</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/knowing-the-api</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/integrating-unispend</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/ping-endpoint</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/sandbox-environment</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/libraries-plugins</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/webhooks-and-events</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/changelog</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-accounts-issue-id-transactions-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-accounts-public-profile-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-accounts-transactions-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-accounts-transaction-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-accounts-transfer-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/delete_v0-2-accounts-delete-unpaid-transaction-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-ai-invoice-generate</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/get_v0-2-info-airtime-countries-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/get_v0-2-info-assets-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/get_v0-2-info-country-banks-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/get_v0-2-info-bank-branches</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/get_v0-2-info-exchange-rates</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/get_v0-2-info-local-amount-in-usd-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/get_v0-2-info-convert-local-amount-to-usd</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/get_v0-2-info-usd-amount-in-local-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/get_v0-2-info-convert-usd-to-local-amount</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/get_v0-2-info-mobile-money-codes-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-info-verify-bank-account-number-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-info-communities-verify-code</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-multicurrency-wallets-create</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-multicurrency-wallets-update</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/get_v0-2-multicurrency-wallets-get</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/get_v0-2-multicurrency-wallets-list</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-multicurrency-wallets-transfer-quote</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-multicurrency-wallets-transfer</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-payment-initiate-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-payment-verify-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-payment-simulate-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-payouts-airtime-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-payouts-bank-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-payouts-chimoney-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-payouts-wallet-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-payouts-interledger-wallet-address-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-payouts-gift-card-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-payouts-mobile-money-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-payouts-interac</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-payouts-status-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-payouts-initiate-chimoney-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-redeem-airtime-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-redeem-any-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-redeem-chimoney-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-redeem-gift-card-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-redeem-mobile-money-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-sub-account-create-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-sub-account-update-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/get_v0-2-sub-account-get-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/get_v0-2-sub-account-list-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-wallets-list-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-wallets-lookup-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://chimoney.readme.io/reference/post_v0-2-wallets-transfer-1</loc>
+	<lastmod>2024-03-27T12:03:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+</urlset>
